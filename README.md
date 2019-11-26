@@ -1,7 +1,7 @@
 # Phoenix-React Boilerplate
 
 ## Acknowledgement:
-The boilerplate is inspired from [`this link`](https://medium.com/coding-artist/full-stack-react-with-phoenix-chapter-5-working-with-postgresql-83ec4f3286b2).
+The boilerplate is inspired from [`this link`](https://medium.com/coding-artist/full-stack-react-with-phoenix-chapter-4-implementing-react-716979133669).
 
 To start your Phoenix app:
 
